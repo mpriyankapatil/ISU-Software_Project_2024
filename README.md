@@ -10,16 +10,16 @@ Phishing attacks have become a prevalent threat in the digital world, targeting 
 
 
 TIMELINE AND MILESTONES(WEEKLY):
-•	Week 1: Selection of Project Topic.
-•	Week 2: Project Proposal and Confirmation.
-•	Week 3: Review of literature, and existing anti-phishing methods.
-•	Week 4: Data collection – assembling a dataset of phishing and legitimate URLs.
-•	Week 5-6: Data preprocessing and initial feature extraction.
-•	Week 7-8: Development and training of the Gradient Boosting Classifier model.
-•	Week 9: Model testing and performance evaluation.
-•	Week 10: Creation of browser extension or developing a GUI which takes the URL and predicts its nature i.e., legitimate of phishing.
-•	Week 11: Final evaluation, documentation, 
-•	Week 12: Final Presentation.
+ Week 1: Selection of Project Topic.
+ Week 2: Project Proposal and Confirmation.
+ Week 3: Review of literature, and existing anti-phishing methods.
+ Week 4: Data collection – assembling a dataset of phishing and legitimate URLs.
+ Week 5-6: Data preprocessing and initial feature extraction.
+ Week 7-8: Development and training of the Gradient Boosting Classifier model.
+ Week 9: Model testing and performance evaluation.
+ Week 10: Creation of browser extension or developing a GUI which takes the URL and predicts its nature i.e., legitimate of phishing.
+ Week 11: Final evaluation, documentation. 
+ Week 12: Final Presentation.
 
 
 EXPECTED OUTCOME:
