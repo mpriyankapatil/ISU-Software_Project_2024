@@ -484,5 +484,5 @@ class FeatureExtraction:
         except:
             return 1
     
-    def getFeaturesList(self):
+    def getFeaturesList(self)
         return self.features
