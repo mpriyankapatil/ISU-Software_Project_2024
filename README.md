@@ -11,14 +11,14 @@ Analyzes and visualizes data to understand feature importance and distributions.
 
 
 MODELS EVALUATED:
-Logistic Regression
-K-Nearest Neighbors
-Support Vector Machine
-Naive Bayes
-Decision Tree
-Random Forest
-Gradient Boosting Classifier
-Multi-layer Perceptron
+Logistic Regression,
+K-Nearest Neighbors,
+Support Vector Machine,
+Naive Bayes,
+Decision Tree,
+Random Forest,
+Gradient Boosting Classifier,
+Multi-layer Perceptron.
 
 
 INSTALLATION:
